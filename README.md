@@ -19,6 +19,7 @@ Java语言（SpringBoot和SSM框架都有实现）实现协同过滤算法新闻
 
 ## 智能新闻推荐系统项目在线演示地址：
 （推荐用谷歌浏览器【1月15左右到期】 ，服务器性能较差，访问有点慢，请稍微等待）
+
  第一款（用电脑谷歌浏览器访问）
 前台用户系统访问地址：[http://47.108.171.60:8080/NewsRecommendOnline/](http://47.108.171.60:8080/NewsRecommendOnline/)
 后台管理系统访问地址：[http://47.108.171.60:8080/NewsRecommendOnline/admin/login](http://47.108.171.60:8080/NewsRecommendOnline/admin/login)
