@@ -18,13 +18,17 @@ Java语言（SpringBoot和SSM框架都有实现）实现协同过滤算法新闻
 **前端使用**：javascript脚本，jquery脚本，用户端使用bootstrap前端框架，管理员端使用layui前端框架，layer弹窗组件等。
 
 ## 智能新闻推荐系统项目在线演示地址：
-[前台演示地址（推荐用谷歌浏览器）：http://1.95.71.218:8081/NewsRecommendOnline/](http://1.95.71.218:8081/NewsRecommendOnline/)      
-  
-[后台演示地址（用谷歌浏览器）：http://1.95.71.218:8081/NewsRecommendOnline/admin/login](http://1.95.71.218:8081/NewsRecommendOnline/admin/login)    
+（推荐用谷歌浏览器【1月15左右到期】 ，服务器性能较差，访问有点慢，请稍微等待）
+ 第一款（用电脑谷歌浏览器访问）
+前台用户系统访问地址：[http://47.108.171.60:8080/NewsRecommendOnline/](http://47.108.171.60:8080/NewsRecommendOnline/)
+后台管理系统访问地址：[http://47.108.171.60:8080/NewsRecommendOnline/admin/login](http://47.108.171.60:8080/NewsRecommendOnline/admin/login)
 
-[第二个新闻推荐前台演示地址：http://1.95.71.218:8090/WebNewsRecommendSystem/](http://1.95.71.218:8090/WebNewsRecommendSystem/)    
+————————————————————————————
 
-[第二个新闻推荐后台演示地址：http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login](http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login)     
+第二款（用电脑谷歌浏览器访问）
+前台用户系统访问地址：[http://47.108.171.60:8081/NewsRecommendWeb/](http://47.108.171.60:8081/NewsRecommendWeb/)
+后台管理系统访问地址：
+[http://47.108.171.60:8081/NewsRecommendWeb/admin/login](http://47.108.171.60:8081/NewsRecommendWeb/admin/login)
 
 # 功能实现
 
