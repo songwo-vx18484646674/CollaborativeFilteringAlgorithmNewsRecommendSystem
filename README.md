@@ -2,7 +2,8 @@
 # Collaborative Filtering News Recommend System Online
  基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的SpringBoot和SSM两种框架分别实现基于用户、物品的协同过滤推荐算法）实现了UserCF和ItemCF的协同过滤推荐算法。
 Java语言（SpringBoot和SSM框架都有实现）实现协同过滤算法新闻推荐系统，使用**基于用户、物品的协同过滤推荐算法**通过**python爬虫**爬取环球日报新闻实现**实时计算推荐**。
-**源码获取**：[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
+## 交流学习源码获取:+vx： 18484646674   +QQ：2474345497
+## 源码获取：[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
 
 **项目系统创新点**：
 
@@ -99,7 +100,8 @@ Java语言（SpringBoot和SSM框架都有实现）实现协同过滤算法新闻
 **Python爬取环球网新闻**
 ![Pythom爬取环球网新闻数据](https://github.com/user-attachments/assets/5a102a36-2b6b-48b9-a90e-faecaee489d0)
 
-**源码获取**：[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
+## 交流学习源码获取:+vx： 18484646674   +QQ：2474345497
+## 源码获取：[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
 
 
 
